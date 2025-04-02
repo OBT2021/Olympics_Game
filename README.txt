@@ -1,9 +1,9 @@
-# Analysis of Olympic Games Data
+### Analysis of Olympic Games Data
 
-# Overview
+### Overview
 This project analyzes the historical Olympic Games dataset to extract key insights such as medal counts, top-performing athletes, and participating nations. The dataset is sourced from Kaggle and inspired by SQL tutorials from TechTFQ.
 
-# Objectives
+### Objectives
 
 The main goals of this analysis include:
 
@@ -15,7 +15,7 @@ The main goals of this analysis include:
 
 - Extracting insights on India's Olympic performance, with a focus on Hockey.
 
-# Data Sources
+### Data Sources
 
 The dataset consists of:
 
@@ -23,7 +23,7 @@ The dataset consists of:
 
 2. olympics_history_noc_regions - Maps NOC (National Olympic Committee) codes to respective regions/countries.
 
-# SQL Queries and Analysis Performed
+### SQL Queries and Analysis Performed
 
 1. General Olympic Insights:
 
@@ -67,7 +67,7 @@ The dataset consists of:
 
 - Breakdown of India's Hockey medals across different Olympic Games.
 
-# Acknowledgments
+### Acknowledgments
 
 This analysis is made possible by datasets and insights provided by:
 
